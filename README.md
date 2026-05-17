@@ -5,6 +5,7 @@ This is a car sales analysis report, It give you a better understanding on car s
 > This is a car sales report
 
 >  It covers all Comapny and Region
+---
 
 ## Projet Overview
 _I worked with a car sales dataset containing close to 24,000 sales records collected between 2022 and 2023 across seven dealer regions in the United States.
@@ -16,3 +17,13 @@ _Overall this project gave me hands on experience working with real data across 
 - Black
 + Pale White
 - Red
+
+## Data Source: Kaggle.com
+___
+## Tools Used
+### Excel Pivot table:
++ For summerzing
++ Exploing tread in car sales data
++ View Visual here
+
+
