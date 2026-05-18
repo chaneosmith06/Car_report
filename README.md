@@ -1,10 +1,10 @@
 # Car_report
-This is a car sales analysis report, It give you a better understanding on car sales on how the sales was carried out by Company, Region etc..
+_This is a car sales analysis report, It give you a better understanding on car sales on how the sales was carried out by Company, Region etc.._
 
 ## Car sales Data Analysis Report
-> This is a car sales report
+> _This is a car sales report_
 
->  It covers all Comapny and Region
+>  _It covers all Comapny and Region etc._
 ---
 
 ## Projet Overview
@@ -21,9 +21,26 @@ _Overall this project gave me hands on experience working with real data across 
 ## Data Source: Kaggle.com
 ___
 ## Tools Used
-### Excel Pivot table:
-+ For summerzing
-+ Exploing tread in car sales data
-+ View Visual here
+### Excel Pivot Table:
++ _For summarizing the car sales data_
++ _For exploring trends across regions, companies and gender_
++ _For building an interactive dashboard to visualize the findings_
+ ___
 
+### Power BI:
++ _For creating an interactive dashboard_
++ _For visualizing sales performance across different categories_
++ _For filtering data by year, region and company_
+___
+
+### MySQL Workbench:
++ _For storing and querying the dataset_
++ _For retrieving and filtering specific car sales records_
++ _For aggregating data to find totals, averages and customer segments_
+___
+
+### Python — Jupyter Notebook:
++ _For loading the dataset using Pandas_
++ _For exploring the structure and content of the data_
++ _For displaying the top and bottom rows of the dataset_
 
