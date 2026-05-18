@@ -39,7 +39,7 @@ ___
 + _For aggregating data to find totals, averages and customer segments_
 ___
 
-### 4. Python — Jupyter Notebook:
+### 4. Python Jupyter Notebook:
 + _For loading the dataset using Pandas_
 + _For exploring the structure and content of the data_
 + _For displaying the top and bottom rows of the dataset_
