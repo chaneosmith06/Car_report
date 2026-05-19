@@ -20,6 +20,17 @@ _Overall this project gave me hands on experience working with real data across 
 
 ## Data Source: Kaggle.com
 ___
+
+## Data Outlay
+|Car_id|	Date|	Customer Name|	Gender| Annual Income|	Dealer_Name|	Company|	Model|	Engine|	Transmission|	Color|	Price ($)|	  Dealer_No| 	Body Style| Phone|	Dealer_Region|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+
+
+C_CND_000001	1/2/2022	Geraldine	Male	13500	Buddy Storbeck's Diesel Service Inc	Ford	Expedition	DoubleÃ‚Â Overhead Camshaft	Auto	Black	26000	06457-3834	SUV	8264678	Middletown
+C_CND_000002	1/2/2022	Gia	Male	1480000	C & M Motors Inc	Dodge	Durango	DoubleÃ‚Â Overhead Camshaft	Auto	Black	19000	60504-7114	SUV	6848189	Aurora
+C_CND_000003	1/2/2022	Gianna	Male	1035000	Capitol KIA	Cadillac	Eldorado	Overhead Camshaft	Manual	Red	31500	38701-8047	Passenger	7298798	Greenville
+
+
 ## Tools Used
 ### 1. Excel Pivot Table:
 + _For summarizing the car sales data_
@@ -37,6 +48,8 @@ ___
 + _For storing and querying the dataset_
 + _For retrieving and filtering specific car sales records_
 + _For aggregating data to find totals, averages and customer segments_
++ _For writing queries to identify top selling car models and most popular car colors_
++ _For segmenting customers into Gold, Silver and Bronze categories based on their annual income_
 ___
 
 ### 4. Python Jupyter Notebook:
