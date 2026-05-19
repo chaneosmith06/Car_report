@@ -55,3 +55,40 @@ ___
 + _For exploring the structure and content of the data_
 + _For displaying the top and bottom rows of the dataset_
 
+## SQL Querries
+```sql
+Create DATABASE CAR_SALES; 
+USE CAR_SALES; 
+Select * From new_car; 
+select customer_name From new_car;
+```
+```sql
+SELECT * FROM NEW_CAR WHERE Dealer_Region = 'Austin'; 
+SELECT * FROM NEW_CAR WHERE Transmission = 'Auto'; 
+SELECT Company, AVG(`Price ($)`) AS Average_Price 
+FROM new_car 
+GROUP BY Company
+ORDER BY Average_Price DESC; 
+```
+```sql
+SELECT Dealer_Region, SUM(`Price ($)`) AS Total_Revenue 
+FROM new_car 
+GROUP BY Dealer_Region 
+ORDER BY Total_Revenue DESC; 
+```
+```sql
+SELECT Customer_Name, 
+CASE  
+WHEN "Price ($)" >= 1000 THEN "Gold" 
+WHEN "Price ($)" > 700 THEN "Silver" 
+ELSE "Bronze" 
+END AS Segment 
+FROM new_car; 
+```
+```sql
+SELECT Customer_Name,gender 
+FROM new_car 
+WHERE gender = "Male";
+```
+
+
